@@ -1,4 +1,4 @@
-import React, { Component } from 'React'
+import React, { Component } from 'react'
 import { ThemeContext, themes } from './ThemeContext'
 import ThemedButton from './ThemedButton'
 
